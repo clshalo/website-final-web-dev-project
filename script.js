@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("button").click(function(){
-    $("p").toggle();
+    $("h4").toggle();
   });
 });
 
